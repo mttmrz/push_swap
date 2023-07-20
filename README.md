@@ -13,6 +13,7 @@ We created a LIS (Longest Increasing Subsequence) to be our support for the main
 and how many moves for the A stack to host the B stack number that we consider in every iteration. 
 After this operation you get two tables , with the moves needed to host the number you're considering
 e.g
+```
 TABLE A   TABLE B
 4         0
 -5        1
@@ -21,12 +22,12 @@ TABLE A   TABLE B
 0         -3
 4         -2
 -5        -1
-
+```
 it is simple but , not THAT simple, you still need to look up for yourself. OFC norminette it's a killer (pretty useless after the first ring imo) and the code it's simply
 not readable anymore, amen.
 
 I attached the Visualizer aswell, it helps a lot with getting how your algorythm is behaving.
-to use it --> mkdir build --> cd build --> cmake .. (yes the .. are included) --> make --> drag you ./push_swap executable inside the bin folder --> ./visualizer
+to use it --> mkdir build --> cd build --> cmake .. (yes the .. are included) --> make --> drag your ./push_swap executable inside the bin folder --> ./visualizer
 
 The visualizer it's not a work i did, not sure who has . 
 ENJOY
