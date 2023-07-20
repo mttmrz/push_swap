@@ -28,7 +28,7 @@ not readable anymore, amen.
 
 I attached the Visualizer aswell, it helps a lot with getting how your algorythm is behaving.
 
-```to use it --> mkdir build --> cd build --> cmake .. (yes the .. are included) --> make --> drag your ./push_swap executable inside the bin folder --> ./visualizer```
+```to use it --> go inside the push_swap_visualizer folder --> mkdir build --> cd build --> cmake .. (yes the .. are included) --> make --> drag your ./push_swap executable inside the bin folder --> ./visualizer```
 
 The visualizer it's not a work i did, not sure who has . 
 ENJOY
