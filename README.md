@@ -23,7 +23,7 @@ TABLE A   TABLE B
 4         -2
 -5        -1
 ```
-it is simple but , not THAT simple, you still need to look up for yourself. OFC norminette it's a killer (pretty useless after the first ring imo) and the code it's simply
+it is simple but not THAT simple, you still need to look up for yourself. OFC norminette it's a killer (pretty useless after the first ring imo) and the code it's simply
 not readable anymore, amen.
 
 I attached the Visualizer aswell, it helps a lot with getting how your algorythm is behaving.
